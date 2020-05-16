@@ -3,7 +3,8 @@ Starter for GitForLaw
 
 1. Why
 
-    Most of legal is collaboration, voluntary in deal making or compelled in litigation.  Most of law is done as documents.  
+    Most of legal is collaboration, voluntary in deal making or compelled in litigation. It roughly fits together the rough edges of people's aspirations and actions.  Most of law is done as documents.
+    
     Collaboratively sourcing legal documents could make them radically better, faster, cheaper.  It can permit quasi-codification of them, which improves certainty and transparency.
 
     Legal documents are the surface of the law, but they are also much of law's reality, and the substance of law appears through those documents.
