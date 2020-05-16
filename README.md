@@ -1,5 +1,5 @@
 # gitforlaw.github.io
-Starter for GitForLaw
+Starter for GitForLaw!
 
 1. Why
 
