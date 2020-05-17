@@ -1,7 +1,7 @@
 # gitforlaw.github.io
 Starter for GitForLaw
 
-(Start)[GetStartedWithGit.md]
+(Start)[[GetStartedWithGit.md]]
 
 1. Why
 
