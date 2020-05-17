@@ -2,18 +2,18 @@
 
 Narrative version of the core paradigm (currently PoC-ed in perl, and version with edit-in-place interface and navigation shown at https://www.youtube.com/watch?v=4ZfsyTPYFIA):
 
-## A Tree of Records
+1. A Tree of Records
 
-Given a tree of Records based at a "Root" where each Record is:
+   Given a tree of Records based at a "Root" where each Record is:
 
-  a hash of key/values and
+   1.  a hash of key/values and
 
-  a list of other Records referenced with/without Prefixes
+   1.  a list of other Records referenced with/without Prefixes
 
 
-2.Ti=Record Features
+1. Record Features
 
-2.0.sec=Assuming
+   Assuming
 
 2.1.sec=Each Record has a unique name
 
