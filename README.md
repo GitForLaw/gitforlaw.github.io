@@ -2,6 +2,7 @@
 
 Starter for GitForLaw
 
+[GetStarted](GetStartedWithGit.md)
 1. Why
 
     Most of legal is collaboration, voluntary in deal making or compelled in litigation. Most of law is done as documents.
