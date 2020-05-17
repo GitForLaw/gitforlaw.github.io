@@ -3,7 +3,8 @@
 Starter for GitForLaw
 
 [GetStarted](GetStartedWithGit.md)
-1. Why
+
+## Why
 
     Most of legal is collaboration, voluntary in deal making or compelled in litigation. Most of law is done as documents.
     
@@ -13,7 +14,7 @@ Starter for GitForLaw
 
     Legal documents and document sets can be collaboratively sourced in git. Git is the most efficient and scaled approach to managing document collaboration.  It arose from the software coding community, where the requirements are more extreme than in law.  We in law can stand on those broad shoulders.
 
-1. Law on Git
+## Law on Git
 
     By "law" we mean legal documents.  Legal documents of course include statutes and regulations, and there are some remarkably achievements using git for those.  However, most of our focus will be on documents that people and businesses negotiate and sign.  These are far more numerous and can be adopted more easily, by any two parties.  Foremost are contracts, but all legal documents can be sourced using git, including permits, organizational documents, even litigation.
 
@@ -21,13 +22,13 @@ Starter for GitForLaw
 
     A third aspect of law where git is useful is teaching.  Course materials can be published in git, assignments can be done as pull-requests even class discussion can be organized in git.  Currently, some CS classes, even very large ones, are taught as git collaborations.  Again, we in law have broad shoulders on which to stand.
 
-1. Getting Started
+## Getting Started
 
     There are multiple entry points of git for law.
 
-    1. Getting Started with Git (https://help.github.com/en/github/getting-started-with-github)
+### Getting Started with Git (https://help.github.com/en/github/getting-started-with-github)
     
-    1. Publishing preferred forms on GitHub.
+### Publishing preferred forms on GitHub.
     
     1. Git for Negotiation
     
