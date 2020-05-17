@@ -15,21 +15,19 @@ Narrative version of the core paradigm (currently PoC-ed in perl, and version wi
 
    Assuming
 
-2.1.sec=Each Record has a unique name
+   1. Each Record has a unique name
 
-2.2.sec=The keys are more or less any string, case-sensitive, without leading or trailing whitespace
+   1. The keys are more or less any string, case-sensitive, without leading or trailing whitespace
 
-2.3.sec=The values are strings and may contain {Entities} and HTML markup.
+   1. The values are strings and may contain {Entities} and HTML markup.
 
-2.=[G/Z/ol/s3]
+1. Rendering
 
-3.Ti=Rendering
+   Given an input of:
 
-3.0.sec=Given an input of:
+   1. the name of a Root1
 
-3.1.sec=the name of a Root1
-
-3.2.sec=the name of a Record1
+   1. the name of a Record1
 
 3.3.sec=the name of a Key1
 
