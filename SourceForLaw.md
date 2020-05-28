@@ -2,9 +2,9 @@
 
 ## Reasons for "Source" in Law
 
-When one speaks of "Open Source," there are two words and two concepts.  "Open" refers to a legal idea: the solution is free of legal restrictions.  "Source" refers to the format of the text: it is made avaialble in the format that a skilled practitioner can best use it.  
+When one speaks of "Open Source," there are two words and two concepts.  "Open" refers to a legal idea: the solution is free of legal restrictions.  "Source" refers to the format of the text: it is made available in the format that a skilled practitioner can best use.  
 
-In software, the innovation of "open source" was the "open" part, the legal regime of copyleft and the like.  Coders had already developed the notion of working with modules in a format that made the programmer efficient.  "Source code" contrasted with "compiled code" or "object code".
+In software, the innovation of "open source" was the "open" part, the legal regime of copyleft and the like.  Coders had already developed the notion of working with modules in a format that made the programmer efficient.  "Source code" contrasted with "compiled code" or "object code."  The problem that copyleft solved was that the source was available only to the proponent, not the user.
 
 In law, we have more or less the opposite situation.  Legal documents are nominally subject to copyright and in a few domains copyright assertions have some impact.  Those are few.  For most legal documents most materials are freely copied without any worry about a copyright assertion.  But they are published in a format that resembles compiled code. The ideas are no longer discrete, the alternatives no longer within reach.  Deal points no longer separate from forms.  
 
