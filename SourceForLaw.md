@@ -1,5 +1,6 @@
 # Source for Law
 
+## Reasons for "Source" in Law
 
 When one speaks of "Open Source," there are two words and two concepts.  "Open" refers to a legal idea: the solution is free of legal restrictions.  "Source" refers to the format of the text: it is made avaialble in the format that a skilled practitioner can best use it.  
 
