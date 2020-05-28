@@ -4,7 +4,7 @@ Starter for GitForLaw
 
 [GetStarted](GetStartedWithGit.md)
 
-[Source Format for Legal Documents](SourceForLegal.md)
+[Source Format for Legal Documents](SourceForLaw.md)
 
 ## Why
 
