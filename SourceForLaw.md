@@ -13,5 +13,5 @@ Document assembly goes some distance towards "source", but mostly only for the a
 
 And legal has the odd characteristic that the "source" version is generally what someone wants, not the compiled.  While lawyers and others have grown accustomed to reading long documents of nearly complete repetition, what we are mostly trying to do as we read is to assure that the text corresponds to a paradigm that we already have in our minds.  It is much more efficient if we can simply know that that is true because the "source" (in the related sense) of the text is known.  We do this all the time with statutes and regulations, and with contract annexes such as statements of work.  But this has not been generalized in law, as it has in coding.  That is the role of legal document "source" code.
 
-Here we propose a general, simple form of "source code" for legal documents, all of them, as flat files, directly workable in git.  [Prose Objects](ProseObjects.md)
+Here we propose a general, simple form of "source code" for legal documents, all of them, as flat files, directly workable in git.  [Prose Object](ProseObject.md)
 
