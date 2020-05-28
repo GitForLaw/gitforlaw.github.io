@@ -3,6 +3,7 @@
 Starter for GitForLaw
 
 [GetStarted](GetStartedWithGit.md)
+[Source Format for Legal Documents](SourceForLegal.md)
 
 ## Why
 
