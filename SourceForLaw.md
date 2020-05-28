@@ -1,4 +1,4 @@
-Source for Law
+# Source for Law
 
 
 When one speaks of "Open Source," there are two words and two concepts.  "Open" refers to a legal idea: the solution is free of legal restrictions.  "Source" refers to the format of the text: it is made avaialble in the format that a skilled practitioner can best use it.  
@@ -11,7 +11,9 @@ Document assembly goes some distance towards "source", but mostly only for the a
 
 "Markdown" text is intended to make authoring more structured but remains "blobs."  LaTeX, is truly modular, and would be a great tool for legal collaboration, but it is a bit complex.  
 
-And legal has the odd characteristic that the "source" version is generally what someone wants, not the compiled.  While lawyers and others have grown accustomed to reading long documents of nearly complete repetition, what we are mostly trying to do as we read is to assure that the text corresponds to a paradigm that we already have in our minds.  It is much more efficient if we can simply know that that is true because the "source" (in the related sense) of the text is known.  We do this all the time with statutes and regulations, and with contract annexes such as statements of work.  But this has not been generalized in law, as it has in coding.  That is the role of legal document "source" code.
+And legal has the odd characteristic that the "source" version is generally more useful than the compiled.  While lawyers and others have grown accustomed to reading long documents of nearly complete repetition, what we are mostly trying to do as we read is to assure that the text corresponds to a paradigm that we already have in our minds.  It is much more efficient if we can simply know that that is true because the "source" (in the related sense) of the text is known.  We do this all the time with statutes and regulations, and with contract annexes such as statements of work.  But this has not been generalized in law, as it has in coding.  That is the role of legal document "source" code.
+
+## Prose Objects
 
 Here we propose a general, simple form of "source code" for legal documents, all of them, as flat files, directly workable in git.  [Prose Object](ProseObject.md)
 
