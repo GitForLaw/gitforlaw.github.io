@@ -12,7 +12,7 @@ Most of legal is collaboration, voluntary in deal making or compelled in litigat
     
 Collaboratively sourcing legal documents could make the documents and the law radically faster, cheaper, clearer and better.  Collaboratively sourced documents and their components permit quasi-codification of the documents, improving certainty, transparency and balance.
 
-Legal documents are only the surface of the law, but the reflect much of law's reality, and the substance of law can be discerned through them.
+Legal documents are only the surface of the law, but they connect legal institutions, processes and theory to social and business reality. The law can be discerned through legal documents.
 
 Legal documents and document sets can be collaboratively sourced in git. Git is the most efficient and scaled approach to managing document collaboration.  It arose from the software coding community, where the requirements are more extreme than in law.  We in law can stand on those broad shoulders.
 
