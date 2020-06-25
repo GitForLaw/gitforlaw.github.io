@@ -60,5 +60,5 @@ Narrative version of the core paradigm (currently PoC-ed in perl, and version wi
          
    4. View: Metadata Wrapping Each Substitution
 
-      1. Depending on the View, wrap each substitution with metadata about its source (Record and Key) to aid navigation and editing. For instance, the "Document" view wraps with the key names, "Xray" wraps with key names and a "<ul><li>...</li></ul>".
+      1. Depending on the View, wrap each substitution with metadata about its source (Record and Key) to aid navigation and editing. For instance, the "Document" view wraps with the key names, "Xray" wraps with key names and a "&lt;ul>&lt;li>...&lt;/li>&lt;/ul>".
 
