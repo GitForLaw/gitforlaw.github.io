@@ -6,9 +6,7 @@ Starter for GitForLaw
 
 [Source Format for Legal Documents](SourceForLaw.md)
 
-GitForLaw Model Taxonomy
-
-[https://github.com/CommonAccord/GitForLaw/blob/master/Model/GitForLaw-Model-Taxonomy.md]
+GitForLaw Model Taxonomy: [https://github.com/CommonAccord/GitForLaw/blob/master/Model/GitForLaw-Model-Taxonomy.md]
 
 ## Why
 
