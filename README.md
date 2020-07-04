@@ -8,7 +8,7 @@ Starter for GitForLaw
 
 GitForLaw Model Taxonomy
 
-(https://github.com/CommonAccord/GitForLaw/blob/master/Model/GitForLaw-Model-Taxonomy.md)
+[https://github.com/CommonAccord/GitForLaw/blob/master/Model/GitForLaw-Model-Taxonomy.md]
 
 ## Why
 
