@@ -6,6 +6,8 @@ Starter for GitForLaw
 
 [Source Format for Legal Documents](SourceForLaw.md)
 
+[https://github.com/CommonAccord/GitForLaw/blob/master/Model/GitForLaw-Model-Taxonomy.md](Taxonomy Work Sheet)
+
 ## Why
 
 Most of legal is collaboration, voluntary in deal making or compelled in litigation. Most of law is done as documents.
