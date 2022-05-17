@@ -12,6 +12,7 @@ Git can be used for law in different levels of engagement.
 
 6. Go "Source" format with ProseObjects. To get the full benefit of git, collaboration, public models and the like, you can document your deals using a source format (combinable, "composable") for them.  ProseObjects is the most general of those approaches.  See www.commonaccord.org.  This will allow you to state each step as a list of deal points and modifications.  It will also allow you to use the full variety of model document solutions for each part.  Finally, it makes your documents "computable" in the sense that the lists form a "semantic web" or "Directed Acyclical Graph" that a machine can easily travers. 
 
+Tools:
 
 For the introductory levels where you are managing files in a git repo, we recommend the GitHub Desktop application. https://desktop.github.com/
 
