@@ -10,13 +10,15 @@ GitForLaw Model Taxonomy: [Model Taxonomy](https://github.com/CommonAccord/GitFo
 
 ## Why
 
-Most of legal is collaboration, voluntary in deal making or compelled in litigation. Most of law is done as documents.
-    
+Most of legal is collaboration, voluntary collaboration in deal making or compelled collaboration in litigation. Most of law is done as documents.
+
 Collaboratively sourcing legal documents could make the documents and the law radically faster, cheaper, clearer and better.  Collaboratively sourced documents and their components permit quasi-codification of the documents, improving certainty, transparency and balance.
+
+Managing document workflows in git could radically improve negotiation, performance and audits (including litigation, the "hard" form of auditing).
 
 Legal documents are only the surface of the law, but they connect legal institutions, processes and theory to social and business reality. The law can be discerned through legal documents.
 
-Legal documents and document sets can be collaboratively sourced in git. Git is the most efficient and scaled approach to managing document collaboration.  It arose from the software coding community, where the requirements are more extreme than in law.  We in law can stand on those broad shoulders.
+Legal documents and document sets can be collaboratively sourced in git. Git is the most efficient and scaled approach to managing text collaboration.  It arose from the software coding community, where the requirements are more extreme than in law.  We in law can stand lightly on those broad shoulders.
 
 ## Law on Git
 
